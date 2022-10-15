@@ -4,8 +4,10 @@ def checkEven(num):
         return True
     else:
         return False
+
+
 n = int(input("Enter Number \n"))
-if(checkEven(n)):
-    print(n," is Even")
+if checkEven(n):
+    print(n, " is Even")
 else:
-    print(n," is Odd")
+    print(n, " is Odd")
