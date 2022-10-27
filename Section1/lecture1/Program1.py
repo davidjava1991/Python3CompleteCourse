@@ -1,4 +1,6 @@
 # Python program to check a number is even or odd
+
+
 def checkEven(num):
     if num%2 == 0:
         return True
