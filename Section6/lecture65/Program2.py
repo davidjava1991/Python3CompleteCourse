@@ -16,7 +16,6 @@ class Employee:
         return self.id + other.id
 
 
-
 obj1 = Employee(12,"David")
 obj1 = Employee(12, "David")
 

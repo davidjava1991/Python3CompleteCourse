@@ -9,8 +9,8 @@ class Bird:
 class Eagle(Bird):
 
     def fly(self):
-        super(Eagle, self).fly()
-        print("Eagle fly()")
+        super().fly()
+        print(" Eagle fly()")
 
 
 obj1 = Eagle()
