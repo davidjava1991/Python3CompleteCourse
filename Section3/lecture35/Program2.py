@@ -1,4 +1,4 @@
-# Program showing useage of 'in' with tuples
+# Program showing usage of 'in' with tuples
 
 days = ("sun", "mon", "tue", "wed", "thu", "fri", "sat")
 if "mon" in days:
