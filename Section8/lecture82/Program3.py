@@ -1,6 +1,7 @@
 # Program to show conversion of list and dict to a named tuple
-list1 = [10, "David", 31]
 from collections import namedtuple
+
+list1 = [10, "David", 31]
 Student = namedtuple("Student", ["id", "name", "age"])
 stud1 = Student._make(list1)
 print("stud1 : ", stud1)
