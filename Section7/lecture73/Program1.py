@@ -1,4 +1,4 @@
-# Program to show use of try except  block
+12# Program to show use of try except  block
 
 try:
     n = int(input("Enter a number \n"))

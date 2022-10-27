@@ -11,6 +11,7 @@ fun2()
 def fun3(fun):
     fun()
 
+
 fun3(fun2)
 
 

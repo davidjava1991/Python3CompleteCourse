@@ -5,5 +5,5 @@ d = int(input("Enter denominator \n"))
 if d == 0:
     raise Exception("Denominator is zero")
 else:
-    print("division = ",(n/d))
+    print("division = ", (n/d))
 
