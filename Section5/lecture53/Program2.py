@@ -6,7 +6,7 @@ def add(types="int", *args):
         for n in args:
             add += n
         return add
-    elif types =="float":
+    elif types == "float":
         add = 0.0
         for n in args:
             add += n
